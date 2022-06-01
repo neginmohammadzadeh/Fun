@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rover</string>
+    <string name="error_up">حرکت به بالا امکان پذیر نمی باشد</string>
+    <string name="error_right">حرکت به راست امکان پذیر نمی باشد</string>
+    <string name="error_left">حرکت به چپ امکان پذیر نمی باشد</string>
+    <string name="error_retrofit"> خطا در دریافت اطلاعات مجددا تلاش کنید</string>
+    <string name="btn_start">شروع</string>
+    <string name="btn_stop">توقف</string>
+    <string name="alarm_stop">متوقف شد</string>
+    <string name="alarm_loading">لطفا شکیبا باشید</string>
+
+</resources>
